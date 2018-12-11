@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Metadata's folder is created and history of repository (files and folders) is now ready to be updated.
