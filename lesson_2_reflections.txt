@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 Metadata's folder is created and history of repository (files and folders) is now ready to be updated.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area contains temporary information about uncommited changes.
