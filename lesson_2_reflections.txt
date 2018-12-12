@@ -5,3 +5,7 @@ Metadata's folder is created and history of repository (files and folders) is no
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area contains temporary information about uncommited changes.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+We can see the status of staging area. It will give information about pendant changes.
