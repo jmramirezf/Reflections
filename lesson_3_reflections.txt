@@ -6,4 +6,7 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Because there are many people editing files and those changes are not necessary at all.
 
-Q3
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Cloning repositories is the way to get all files locally. We can commit changes in the origin repository. Fork is the way to get a repository but we cannot commit changes in the origin. 
+A branch is an alternative version of the master branch.
