@@ -10,3 +10,7 @@ Describe the differences between forks, clones, and branches. When would you use
 
 Cloning repositories is the way to get all files locally. We can commit changes in the origin repository. Fork is the way to get a repository but we cannot commit changes in the origin. 
 A branch is an alternative version of the master branch.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+We notice of changes made by collaborators and decide if they would be included in versions (or not).
