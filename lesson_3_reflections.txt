@@ -14,3 +14,8 @@ A branch is an alternative version of the master branch.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 We notice of changes made by collaborators and decide if they would be included in versions (or not).
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would assign different jobs per collaborator. If would be necessary to modify the same file then I would assign a time per collaborator.
+Most difficult would be the timeline, because a job would wait another to be finished. Maybe the easiest thing is that you don't need an expert collaborator using github.
